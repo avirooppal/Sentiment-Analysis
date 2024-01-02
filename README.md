@@ -15,11 +15,12 @@ This Python script utilizes the [TextBlob](https://textblob.readthedocs.io/en/de
 ## Usage
 
 1. Clone the repository:
-   ```bash
-   https://github.com/avirooppal/Sentiment-Analysis.git
+```bash
+https://github.com/avirooppal/Sentiment-Analysis.git
+```
 2. Navigate to the project directory:
 
-```baseh
+```base
 cd sentiment-analysis-mood-classifier
 ```
 3.Run the script:
