@@ -21,7 +21,7 @@ https://github.com/avirooppal/Sentiment-Analysis.git
 2. Navigate to the project directory:
 
 ```base
-cd sentiment-analysis-mood-classifier
+cd Sentiment-Analysis
 ```
 3.Run the script:
 ```bash
