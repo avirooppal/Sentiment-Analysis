@@ -19,14 +19,17 @@ This Python script utilizes the [TextBlob](https://textblob.readthedocs.io/en/de
    https://github.com/avirooppal/Sentiment-Analysis.git
 2. Navigate to the project directory:
 
-***cd sentiment-analysis-mood-classifier***
+```baseh
+cd sentiment-analysis-mood-classifier
+```
 3.Run the script:
-
-***app.py***
+```bash
+app.py
+```
 4.Enter text when prompted, and observe the mood classification along with the sentiment score.
 
 Feel free to use and modify this script for sentiment analysis in your projects!
 
 ## Requirements
 Python 3.x
-TextBlob library (install via ***pip install textblob***)
+TextBlob library (install via pip install textblob)
